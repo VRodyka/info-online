@@ -1,2 +1,4 @@
 modificam informatia interna
 Am verificat informatia
+Va rugam sa analizati Test case 2
+
